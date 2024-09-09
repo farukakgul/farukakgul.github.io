@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD at USC.
+Started the PhD program at USC at Prof. Viktor Prasanna's [group](https://sites.usc.edu/prasanna/).
