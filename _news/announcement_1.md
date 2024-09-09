@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started the PhD program at USC at Prof. Viktor Prasanna's [group](https://sites.usc.edu/prasanna/).
+Started the PhD program in Computer Science at USC, joining Prof. Viktor Prasanna's [research group](https://sites.usc.edu/prasanna/).
