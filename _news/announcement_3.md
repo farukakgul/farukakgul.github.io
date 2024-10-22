@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information" will be on arxiv soon!
+[Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information](https://arxiv.org/abs/2410.14010) is on arxiv!
