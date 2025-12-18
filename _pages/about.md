@@ -21,6 +21,6 @@ I am a 4th year Ph.D. student in Computer Science at University of Southern Cali
 
 My current research include:
 
-- Efficient & Robust LLM Reasoning
+- Efficient & robust LLM reasoning
 - Graph Neural Networks
 - Temporal knowledge graphs and their applications
