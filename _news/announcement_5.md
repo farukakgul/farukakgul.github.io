@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Recipe-TKG](https://arxiv.org/pdf/2505.17794) is accepted to EACL 2026 (main conference)!
+[Recipe-TKG](https://arxiv.org/pdf/2505.17794) is accepted to EACL 2026.
