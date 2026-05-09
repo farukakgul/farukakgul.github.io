@@ -17,10 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 4th year Ph.D. student in Computer Science at University of Southern California, advised by [Prof. Viktor Prasanna](https://sites.usc.edu/prasanna/). I received B.Sc. in Computer Science at Bilkent University. Previously, I conducted research with [Prof. Tudor Dumitras](https://users.umiacs.umd.edu/~tdumitra/) at the University of Maryland, investigating the impact of malware variability on machine learning models.
+I am a Ph.D. student in Computer Science at the University of Southern California, advised by [Prof. Viktor Prasanna](https://sites.usc.edu/prasanna/), and I also closely work with [Prof. Willie Neiswanger](https://willieneis.github.io). I received my B.Sc. in Computer Science from Bilkent University. Previously, I worked with [Prof. Tudor Dumitras](https://users.umiacs.umd.edu/~tdumitra/) at the University of Maryland on machine learning for security.
 
-My current research include:
+My current research interests include:
 
-- Efficient & robust LLM reasoning
-- Graph Neural Networks
-- Temporal knowledge graphs and their applications
+- Language model reasoning
+- Efficient and reliable machine learning
+- Post-training and inference-time methods for large language models
+- Structured reasoning over temporal and relational data

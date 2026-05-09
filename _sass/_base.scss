@@ -691,6 +691,18 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
+      .publication-entry {
+        margin-left: 0;
+        margin-right: 0;
+      }
+
+      .publication-content-full {
+        padding-left: 0;
+        padding-right: 0;
+        flex: 0 0 100%;
+        max-width: 100%;
+      }
+
       .preview {
       }
 
@@ -714,6 +726,17 @@ footer.sticky-bottom {
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
+        }
+      }
+
+      .publication-badge {
+        margin-bottom: 0.35rem;
+
+        abbr {
+          width: auto !important;
+          min-width: 0;
+          padding-left: 0.6rem;
+          padding-right: 0.6rem;
         }
       }
 
