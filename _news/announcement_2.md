@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[An Efficient Distributed Graph Engine for Deep Learning on Graphs](https://dl.acm.org/doi/pdf/10.1145/3624062.3624169) accepted to the SC'23 workshop.
+Our paper **An Efficient Distributed Graph Engine for Deep Learning on Graphs** was accepted to the **SC'23 Workshop**.

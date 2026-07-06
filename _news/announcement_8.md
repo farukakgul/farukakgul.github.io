@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my **Applied Science internship** at the **AWS Agentic AI Foundational Research Team**, where I am working on **AI agents**.
+I started my **Applied Science internship** at the **AWS Agentic AI Foundational Research Team**, where I worked on **AI agents**.

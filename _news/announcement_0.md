@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to join [UMD MC2](https://cyber.umd.edu/about) as a summer intern!
+I joined [UMD MC2](https://cyber.umd.edu/about) as a **summer intern**.

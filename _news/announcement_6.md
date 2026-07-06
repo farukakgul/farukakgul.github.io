@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [`Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning`](https://arxiv.org/abs/2605.06241) is now available on **arXiv**. It studies why RL improves reasoning performance and argues that the gains primarily come from sparse policy selection rather than capability learning.
+Our paper [Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning](https://arxiv.org/abs/2605.06241) is now available on **arXiv**.
