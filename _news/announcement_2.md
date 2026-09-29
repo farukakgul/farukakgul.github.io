@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *An Efficient Distributed Graph Engine for Deep Learning on Graphs* was accepted to the SC'23 Workshop.
+Our paper _An Efficient Distributed Graph Engine for Deep Learning on Graphs_ was accepted to the SC'23 Workshop.
