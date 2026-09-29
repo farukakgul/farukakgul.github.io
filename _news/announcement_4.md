@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my **Applied Science internship** at **Amazon**, where I worked on **Text-to-SQL systems**.
+I joined Amazon as an Applied Science Intern, working on Text-to-SQL systems.

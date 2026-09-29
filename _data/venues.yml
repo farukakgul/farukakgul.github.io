@@ -7,3 +7,38 @@
 
 "Vision":
   color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#4b4b8f"
+
+"COLM":
+  url: https://colmweb.org/
+  color: "#4f6f52"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#3b70a2"
+
+"EACL":
+  url: https://eacl.org/
+  color: "#6f42c1"
+
+"UAI":
+  url: https://www.auai.org/
+  color: "#ba4a00"
+
+"ACL":
+  url: https://www.aclweb.org/
+  color: "#008080"
+
+"SC":
+  url: https://supercomputing.org/
+  color: "#9b2335"
+
+"Preprint":
+  color: "#6c757d"

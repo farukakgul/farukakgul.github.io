@@ -64,6 +64,13 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Professional service -->
+    {% if page.professional_service %}
+      <h2>professional service</h2>
+      <p><strong>Reviewer:</strong> {{ page.professional_service.reviewer }}.</p>
+      <p><strong>Program Committee:</strong> {{ page.professional_service.program_committee }}.</p>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

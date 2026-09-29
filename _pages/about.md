@@ -9,11 +9,14 @@ profile:
   image: omer_web.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   
+    <p><a href="mailto:akgul@usc.edu">akgul@usc.edu</a></p>
 
 news: true # includes a list of news items
 latest_posts: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
+professional_service:
+  reviewer: ICML (Top Reviewer, 2026), NeurIPS 2026, ICLR 2027, UAI 2026, and EMNLP 2026
+  program_committee: AAAI 2026
 social: true # includes social icons at the bottom of the page
 ---
 

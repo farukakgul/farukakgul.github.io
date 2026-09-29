@@ -98,6 +98,7 @@ publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 scholar_userid: # your Google Scholar ID
+scholar_url: "https://scholar.google.com/citations?view_op=search_authors&mauthors=%C3%96mer+Faruk+Akg%C3%BCl"
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -329,6 +330,7 @@ scholar:
     - abbr
     - bibtex_show
     - preview
+    - ranking
 
   replace_strings: true
   join_strings: true
@@ -337,8 +339,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  sort_by: ranking
+  order: ascending
+  group_by: none
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information](https://arxiv.org/abs/2410.14010) was accepted to **UAI 2025**.
+Our paper [Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information](https://arxiv.org/abs/2410.14010) was accepted to UAI 2025.

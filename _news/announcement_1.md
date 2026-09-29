@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my **Ph.D.** in Computer Science at **USC**, joining [Prof. Viktor Prasanna's research group](https://sites.usc.edu/prasanna/).
+I began my Ph.D. in Computer Science at USC, joining [Prof. Viktor Prasanna's research group](https://sites.usc.edu/prasanna/).

@@ -12,6 +12,8 @@
 {% endif %}
 {% if site.scholar_userid %}
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+{% elsif site.scholar_url %}
+  <a href="{{ site.scholar_url }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 {% endif %}
 {% if site.inspirehep_id %}
   <a href="https://inspirehep.net/authors/{{ site.inspirehep_id }}" title="Inspire HEP"><i class="ai ai-inspire"></i></a>

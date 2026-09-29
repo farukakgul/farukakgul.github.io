@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Recipe-TKG](https://arxiv.org/abs/2505.17794) was accepted to **EACL 2026**.
+Our paper [RECIPE-TKG](https://arxiv.org/abs/2505.17794) was accepted to EACL 2026.

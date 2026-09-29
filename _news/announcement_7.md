@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was recognized as a **Gold Reviewer** at **ICML 2026**.
+I was recognized as an ICML 2026 Gold Reviewer.
