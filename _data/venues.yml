@@ -36,6 +36,10 @@
   url: https://www.aclweb.org/
   color: "#008080"
 
+"EMNLP":
+  url: https://2026.emnlp.org/
+  color: "#008080"
+
 "SC":
   url: https://supercomputing.org/
   color: "#9b2335"
