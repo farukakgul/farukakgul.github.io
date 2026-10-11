@@ -17,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 professional_service:
   reviewer: ICML (Top Reviewer, 2026), NeurIPS (Top Reviewer, 2026), ICLR 2027, UAI 2026, and EMNLP 2026
   program_committee: AAAI 2027
+other_pursuits: >-
+  Before moving to the United States to pursue my Ph.D., I competed as a member of the Turkish National Taekwondo Team. I won a gold medal at the Balkan Taekwondo Championships and was named the tournament's second-most valuable athlete.
 social: true # includes social icons at the bottom of the page
 ---
 
