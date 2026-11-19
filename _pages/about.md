@@ -24,6 +24,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. student in Computer Science at the University of Southern California, where I work with [Prof. Viktor Prasanna](https://sites.usc.edu/prasanna/), [Prof. Willie Neiswanger](https://willieneis.github.io/), and [Prof. Paria Rashidinejad](https://pariard.github.io/index.html).
 
-My research focuses on **understanding and improving reasoning in language models**. I study how reinforcement learning and other post-training methods shape reasoning behavior and develop methods for efficient and reliable inference. More recently, I have been exploring how AI agents build on experience: maintaining useful skills as environments change, and sharing and revising knowledge so that teams of agents can build on one another’s discoveries.
+My research focuses on **understanding and improving reasoning in language models**. I study how reinforcement learning and other post-training methods shape reasoning behavior and develop methods for efficient and reliable training and inference. More recently, I have been exploring how AI agents build on experience: maintaining useful skills as environments change, and sharing and revising knowledge so that teams of agents can build on one another’s discoveries.
 
 I have also interned with the Fundamental Research team at AWS, working on agent adaptation, and at Amazon, working on text-to-SQL systems. I received my B.Sc. in Computer Science from Bilkent University.
